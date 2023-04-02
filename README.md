@@ -1,2 +1,2 @@
-# luxemburgo
- randomness of an eternal imagination
+# Luxemburgo
+ Randomness of an eternal imagination.
